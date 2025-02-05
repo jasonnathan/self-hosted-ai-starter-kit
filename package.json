@@ -1,0 +1,1 @@
+{"dependencies":{"sqlite3":"^5.1.7"},"description":"Self-hosted AI starter kit for local development and deployment of self-hosted AI workflows, combining n8n, Ollama, Qdrant, and PostgreSQL."}
